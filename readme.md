@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.reformsoft.net/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -28,7 +28,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -122,14 +121,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Also, you can change the default locale, or provide more of it by configuring app.yaml file as shown below.
     
 
-See the [language locales](https://github.com/othneildrew/Best-README-Template/issues](https://symfony.com/doc/current/translation.html) for a full list of proposed features symfony provide.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
+See the [language locales](https://symfony.com/doc/current/translation.html) for a full list of proposed features symfony provide.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
